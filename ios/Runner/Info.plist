@@ -26,11 +26,17 @@
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
-	<key>UISupportedInterfaceOrientations</key>
-  <string>NSPhotoLibraryUsageDescription</string>
-  <key>We need to take a picture!</key>
-  <string>NSCameraUsageDescription</string>
-  <key>We need to take a picture!</key>
+	<key>NSPhotoLibraryUsageDescription</key>
+  <string>We need to take a picture!</string>
+  <key>NSCameraUsageDescription</key>
+  <string>We need to take a picture!</string>
+  <key>NSLocationWhenInUseUsageDescription</key>
+  <string>We need to get your location!</string>
+  <key>NSLocationAlwaysUsageDescription</key>
+  <string>We need to get your location!</string>
+  <key>io.flutter.embedded_views_preview</key>
+  <string>YES</string>
+  <key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
 		<string>UIInterfaceOrientationLandscapeLeft</string>
